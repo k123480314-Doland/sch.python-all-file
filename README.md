@@ -1,1 +1,0 @@
-# sch.python-all-file
